@@ -37,8 +37,8 @@ I'm a student at a private university in Tangerang, currently pursuing a Bachelo
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=skrulleps&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Twitter](https://twitter.com/yourprofile)
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/mochamed-fadhlan-tuhairi-3543731b0/))
+- [Instagram](https://www.instagram.com/fadhlant_07/)
 - [Personal Website/Blog](https://yourwebsite.com)
 
 ## 📝 Latest Blog Posts
