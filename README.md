@@ -11,12 +11,12 @@ I'm a student at a private university in Tangerang, currently pursuing a Bachelo
 - [Technology/Language 3]
 
 ## 💼 Skills
-- **Languages:** 
+- **Languages:**
   <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-            
-          
-          
-          
+  <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
+  <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  
 - **Frameworks:** [Framework 1, Framework 2]
 - **Tools:** [Tool 1, Tool 2, Tool 3]
 
