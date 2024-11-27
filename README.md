@@ -18,7 +18,9 @@ I'm a student at a private university in Tangerang, currently pursuing a Bachelo
   <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   
-- **Frameworks:** [Framework 1, Framework 2]
+  
+- **Frameworks:**  <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  , Framework 2]
 - **Tools:** [Tool 1, Tool 2, Tool 3]
 
 ## 📈 GitHub Stats
