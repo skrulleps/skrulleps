@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Mofart 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=skrulleps&color=blue)
 
 ## 🚀 About Me
 I'm a student at a private university in Tangerang, currently pursuing a Bachelor's Degree in Informatics Engineering with a concentration in Software Engineering. I have experience working in a manufacturing company, where I gained valuable insights into software development and project management.
