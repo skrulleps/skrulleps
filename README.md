@@ -37,17 +37,17 @@ I'm a student at a private university in Tangerang, currently pursuing a Bachelo
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=skrulleps&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/mochamed-fadhlan-tuhairi-3543731b0/))
+- [LinkedIn](https://www.linkedin.com/in/mochamed-fadhlan-tuhairi-3543731b0/)
 - [Instagram](https://www.instagram.com/fadhlant_07/)
 - [Personal Website/Blog](https://yourwebsite.com)
 
 ## 📝 Latest Blog Posts
 <!-- Add your latest blog posts here -->
-- [Post Title 1](link-to-your-post)
+- [E-Library](https://web-elibrary-github-io.vercel.app/)
 - [Post Title 2](link-to-your-post)
 
 ## 📫 How to Reach Me
-Feel free to reach out via [Your Email](mailto:youremail@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/).
+Feel free to reach out via [Your Email](mailto:tuhairifadhlan@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/mochamed-fadhlan-tuhairi-3543731b0/)).
 
 ---
 
