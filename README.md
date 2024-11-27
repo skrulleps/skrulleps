@@ -47,7 +47,7 @@ I'm a student at a private university in Tangerang, currently pursuing a Bachelo
 - [Post Title 2](link-to-your-post)
 
 ## 📫 How to Reach Me
-Feel free to reach out via [Your Email](mailto:tuhairifadhlan@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/mochamed-fadhlan-tuhairi-3543731b0/)).
+Feel free to reach out via [Your Email](mailto:tuhairifadhlan@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mochamed-fadhlan-tuhairi-3543731b0/).
 
 ---
 
