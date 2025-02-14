@@ -35,7 +35,6 @@
     <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" /><br/><br/>
   ## 💼 Skills
   - **Languages:**
-  
     <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
     <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
     <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
@@ -47,9 +46,9 @@
      <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
      <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /><br/><br/>
     **Tools:**<br/>
-  
     <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
     <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /><br/><br/>
+-->
 
 <div>
   <h1 align="center">
@@ -68,8 +67,8 @@
   <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
   </p>
-  
 </div>
+<hr>
 <p align="center">
   Thank you for visiting my profile! 🚀
 </p>
