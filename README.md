@@ -3,7 +3,7 @@
   <br>
   <br>
   <a href="https://portofolio-gamma-nine-47.vercel.app/"> 
-    <img src="https://github.com/skrulleps/skrulleps/blob/main/LogoWeb.png" height="250" alt="LogoWeb" />
+    <img src="https://github.com/skrulleps/skrulleps/blob/main/LogoWeb.png" height="150" alt="LogoWeb" />
   </a>
 </h1>
 
