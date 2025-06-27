@@ -68,13 +68,9 @@
   <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skrulleps&theme=nord_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skrulleps&theme=nord_dark"/>
-  <img src="https://streak-stats.demolab.com?user=skrulleps&theme=tokyonight&hide_border=true"
-       alt="GitHub Streak"
-       title="My GitHub Streak"
-       width="495"
-       height="195"
-       loading="lazy"
-       style="display: block; margin: 0 auto;">
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skrulleps&theme=nord_dark&utcOffset=7" />
+
 </p>
 
 ---
