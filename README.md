@@ -1,7 +1,11 @@
 <!-- Top-right visitor counter -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=skrulleps&label=Visitors&color=blue&style=flat-square" alt="Visitor Badge" />
+  <img src="https://komarev.com/ghpvc/?username=skrulleps&label=Visitors&color=blue&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/skrulleps?style=flat-square&color=orange" />
+  <img src="https://img.shields.io/github/stars/skrulleps?style=flat-square&color=yellow" />
+  <img src="https://img.shields.io/github/last-commit/skrulleps/skrulleps?style=flat-square" />
 </p>
+
 
 <h1 align="center">Hi there, I'm Fadhlan! 👋</h1>
 
