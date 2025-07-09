@@ -101,7 +101,7 @@
   <a href="https://www.instagram.com/fadhlant_07/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://discord.gg/vt2r4DRN">
+  <a href="https://discord.gg/CwsVpQHV">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://portofolio-gamma-nine-47.vercel.app/">
