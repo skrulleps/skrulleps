@@ -29,7 +29,7 @@
 🏭 Previously worked in a **manufacturing company**  
 💡 Curious about frontend, cloud, and system integration  
 🧑‍💻 Love building **real-world apps** and solving user problems  
-🌐 Portfolio: [portofolio-gamma-nine-47.vercel.app](https://portofolio-gamma-nine-47.vercel.app)
+🌐 Portfolio: [portofolio-gamma-nine-47.vercel.app](https://portofolio-livid-delta.vercel.app/)
 
 ---
 
